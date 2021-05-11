@@ -5,3 +5,5 @@ Este es un proyecto base que muestra el funcionamiento del patrón modelo - vist
 la testeabilidad de una aplicación o reducir el conjunto de pruebas; donde el modelo es el que responde a la lógica del negocio (business), la vista es la
 interfaz gráfica de usuario (UI) y el controlador es el mediador entre el modelo y la vista.
 
+Constituye un esqueleto básico de funcionamiento MVP.
+
