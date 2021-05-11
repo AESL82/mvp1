@@ -13,7 +13,7 @@ public class MainActivityModel implements MainActivity.Model {
 
     @Override
     public void addName(String s) {
-        data = s + "Cualquier cosa";    // Al String que llega le agregamos un texto.
+        data = s + " Texto adicional.";    // Al String que llega le agregamos un texto.
         presenter.showResult(data);
     }
 }
