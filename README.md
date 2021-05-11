@@ -1,4 +1,4 @@
-# mvp1
+# MVP - Java (sin View Binding ni DataBinding).
 Proyecto de ejemplo de uso de patrón modelo - vista - presentador en Android Java.
 
 Este es un proyecto base que muestra el funcionamiento del patrón modelo - vista - presentador (MVP). Este es un patrón de arquitectura que permite mejorar
